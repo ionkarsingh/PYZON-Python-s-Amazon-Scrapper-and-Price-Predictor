@@ -1,4 +1,4 @@
-#PYZON: Python's Amazon Scrapper and Price Predictor
+<h1>PYZON: Python's Amazon Scrapper and Price Predictor</h1>
 
 This project marked a comprehensive exploration of web scraping techniques applied to Amazon's website, focusing on extracting valuable product information.
 Leveraging Python's versatile libraries, the scraping process successfully collected a diverse dataset encompassing product features, customer reviews, and pricing details.
